@@ -16,7 +16,7 @@ lab1/
 ├── tracker.py                    ← Python script implementing all tasks
 └── daily_calorie_tracker/        ← Folder containing sample output files and README
     ├── Shweta_sample_output.txt  ← Within daily limit case
-    ├── Adarsh_sample_output.txt  ← Exactly met daily limit case
+    ├── Rohit_sample_output.txt  ← Exactly met daily limit case
     ├── Harsh_sample_output.txt   ← Exceeded daily limit case
     └── README.md                 ← Explanation of sample output files
 ```
@@ -40,7 +40,7 @@ lab1/
 Three sample runs are provided in `daily_calorie_tracker/` folder demonstrating:
 
 - **Within daily limit** → `Shweta_sample_output.txt`  
-- **Exactly met daily limit** → `Adarsh_sample_output.txt`  
+- **Exactly met daily limit** → `Rohit_sample_output.txt`  
 - **Exceeded daily limit** → `Harsh_sample_output.txt`  
 
 Refer to `daily_calorie_tracker/README.md` for detailed explanation of each sample output file.
