@@ -1,6 +1,4 @@
 
-# Python-assignment-KRMU
-
 # Lab 1: Daily Calorie Tracker CLI
 
 ## Project Overview
