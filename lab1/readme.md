@@ -13,7 +13,7 @@ Users can log their meals with calorie values, calculate total and average calor
 lab1/
 │
 ├── tracker.py                    ← Python script implementing all tasks
-└── daily_calorie_tracker/        ← Folder containing sample output files and README
+└── sample_data/        ← Folder containing sample output files and README
     ├── Shweta_sample_output.txt  ← Within daily limit case
     ├── Rohit_sample_output.txt  ← Exactly met daily limit case
     ├── Harsh_sample_output.txt   ← Exceeded daily limit case
@@ -36,13 +36,13 @@ lab1/
 
 ## Sample Outputs
 
-Three sample runs are provided in `daily_calorie_tracker/` folder demonstrating:
+Three sample runs are provided in `sample_data/` folder demonstrating:
 
 - **Within daily limit** → `Shweta_sample_output.txt`  
 - **Exactly met daily limit** → `Rohit_sample_output.txt`  
 - **Exceeded daily limit** → `Harsh_sample_output.txt`  
 
-Refer to `daily_calorie_tracker/README.md` for detailed explanation of each sample output file.
+Refer to `sample_data/README.md` for detailed explanation of each sample output file.
 
 ---
 
