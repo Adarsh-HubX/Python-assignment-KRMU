@@ -1,4 +1,4 @@
-# 📘 GradeBook Analyzer
+# Lab 2: 📘 GradeBook Analyzer
 
 > A Python-based CLI mini project to analyze and report student grades automatically.
 
